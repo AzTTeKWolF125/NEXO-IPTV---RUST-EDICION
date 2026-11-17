@@ -1,0 +1,15 @@
+NEXO Rust Edición 1.0.0 — piloto
+
+Android: instalar nexo-rustedicion-1.0.0-universal.apk.
+Paquete independiente: nexo.rustedicion; código 1. Universal ARMv7, ARM64 y x86_64, firma de lanzamiento dedicada.
+
+Windows x64: ejecutar nexo-rustedicion-1.0.0-setup.exe.
+Instalación para el usuario actual, con dependencias incluidas. La edición piloto tiene su propia carpeta y datos. Inicia sin cuentas de prueba incluidas. El instalador no tiene firma Authenticode.
+
+Incluye la corrección de la distribución de escritorio maximizada y a pantalla completa, el orden de aceptación de descargas y la recuperación limitada de TV en directo.
+
+Verificación: 75 pruebas Dart, 17 de WatchNext y seis recorridos funcionales en Windows y emulador Android. Se comprobaron navegación, búsqueda, cambios de canal, reanudación, saltos, series y descargas offline. El APK universal final se instaló y reprodujo vídeo horizontal. El instalador final se ejecutó y abrió la aplicación con la identidad correcta.
+
+Alcance: recomendado para un piloto pequeño. Sigue pendiente confirmar la estabilidad tras varias horas en el TVbox; no se probó cada título del catálogo. No es un AAB ni una entrega para publicación general.
+
+El código original y su copia de seguridad permanecen intactos.
